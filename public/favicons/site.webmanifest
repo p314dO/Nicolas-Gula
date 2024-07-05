@@ -1,0 +1,19 @@
+{
+  "name": "nGbonzini Website",
+  "short_name": "nGbonzini",
+  "icons": [
+    {
+      "src": "/favicons/image2.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/image2.webp",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1d2a35",
+  "background_color": "#1d2a35",
+  "display": "standalone"
+}
