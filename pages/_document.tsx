@@ -31,6 +31,7 @@ const Document = () => {
           href="/favicons/image2.webp"
           color="#5bbad5"
         />
+        <meta name="google-site-verification" content="uTMoqMc9K_yllcCGoD_dA8iday1dBT178xhJfZyZhzw" />
         <meta name="msapplication-TileColor" content="#5bbad5" />
         <meta name="theme-color" content="#1d2a35" />
 
