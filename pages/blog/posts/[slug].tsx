@@ -50,7 +50,7 @@ const BlogLayout: React.FC<Props> = ({ post }) => {
       />
 
       <AppHead
-        title={`${post.title} - nGbonzini`}
+        title={`${post.title} - Nicolas Gula`}
         url={`${process.env.NEXT_PUBLIC_URL}/blog/posts/${post.slug}`}
         meta={post}
       />

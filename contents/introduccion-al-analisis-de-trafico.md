@@ -12,7 +12,7 @@ tags:
   - PDU
 featured: false
 category: What is ?
-author: nGbonzini
+author: Nicolas Gula
 type: article
 coverImage:  https://pandorafms.com/blog/wp-content/uploads/2019/05/analisis-de-trafico-de-red-featured.jpg
 coverImageAlt: Microsoft AD

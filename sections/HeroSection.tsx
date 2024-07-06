@@ -124,7 +124,7 @@ const HeroSection: React.FC = () => {
         </span>
         <div className="overflow-hidden">
           <h1 className="text-animation text-4xl md:text-5xl lg:text-7xl md:my-2 font-semibold my-1">
-            nGbonzini
+            Nicolas Gula
           </h1>
         </div>
         <div className="overflow-hidden">

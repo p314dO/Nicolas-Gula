@@ -10,7 +10,7 @@ tags:
   - Labs
 featured: false
 category: Tutorial
-author: nGbonzini
+author: Nicolas Gula
 type: article
 coverImage:  https://miro.medium.com/v2/resize:fit:640/format:webp/1*HapzmTCjNvXIff_AsOCIuw.png
 coverImageAlt: Microsoft AD

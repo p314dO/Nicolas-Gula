@@ -13,7 +13,7 @@ tags:
   - Web Application Vulnerability Assessment
 featured: false
 category: Certification
-author: nGbonzini
+author: Nicolas Gula
 type: article
 coverImage:  https://media.licdn.com/dms/image/D4E12AQFhSqmJCJdCtA/article-cover_image-shrink_720_1280/0/1715205951038?e=1720656000&v=beta&t=hlzBOZ_NwNxG7L2qqqfWBqYZkGKF5iS_jEqUzanZvaw
 coverImageAlt: Microsoft AD

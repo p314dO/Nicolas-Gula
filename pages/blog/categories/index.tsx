@@ -63,7 +63,7 @@ const Blog: NextPage<Props> = ({ categories, categorizedPosts }) => {
 
   return (
     <>
-      <AppHead title="Blog - nGbonzini" />
+      <AppHead title="Blog - Nicolas Gula" />
       <Loader>Categories</Loader>
       <div ref={sectionRef} className="bg-bglight dark:bg-bgdark">
         <div className="selection:bg-marrsgreen selection:text-bglight dark:selection:bg-carrigreen dark:selection:text-bgdark">

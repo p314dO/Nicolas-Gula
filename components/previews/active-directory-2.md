@@ -6,7 +6,7 @@ excerpt:
 datetime: 2024-05-07T05:33:07.000+00:00
 featured: true
 category: What is ?
-author: nGbonzini
+author: Nicolas Gula
 type: article
 coverImage:  https://www.quest.com/images/og/learn-page-what-is-active-directory_163781.jpg
 coverImageAlt: Microsoft AD
@@ -19,7 +19,7 @@ language: "Spanish"
 
 ---
 
-Continuacion de la primera parte de [Active Directory, Donde Los Hackers Se Divierten](https://www.ngbonzini.xyz/blog/posts/active-directory-1)
+Continuacion de la primera parte de [Active Directory, Donde Los Hackers Se Divierten](https://www.Nicolas Gula.xyz/blog/posts/active-directory-1)
 
 ## Usuarios 👥
 

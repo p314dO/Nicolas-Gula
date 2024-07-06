@@ -10,7 +10,7 @@ tags:
   - Tcpdump
 featured: true
 category: What is ?
-author: nGbonzini
+author: Nicolas Gula
 type: article
 coverImage:  https://learn.g2.com/hubfs/G2CM_FI634_Learn_Article_Images_%5BNetwork_traffic_analysis%5D_V1a.png
 coverImageAlt: Microsoft AD

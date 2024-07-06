@@ -8,7 +8,7 @@ tags:
   - ContextAPI
   - Styled-Components
   - TypeScript
-author: nGbonzini
+author: Nicolas Gula
 type: article
 coverImage: 
 coverImageAlt: Screenshot of Terminal Portfolio Website

@@ -4,4 +4,4 @@ Disallow:
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ngbonzini.xyz/sitemap.xml
+Sitemap: https://www.Nicolas Gula.xyz/sitemap.xml

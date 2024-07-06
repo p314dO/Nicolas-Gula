@@ -13,7 +13,7 @@ tags:
   - Web Application Vulnerability Assessment
 featured: true
 category: Certification
-author: nGbonzini
+author: Nicolas Gula
 type: article
 coverImage:  https://media.licdn.com/dms/image/D4D12AQGfTssDw1ICbQ/article-cover_image-shrink_720_1280/0/1717977395509?e=1724284800&v=beta&t=NtcpFS0QL-BFd3sq1rkEcTsYQ-W3fI7N62bEyuTaA88
 coverImageAlt: eWPTX

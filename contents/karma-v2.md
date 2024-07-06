@@ -10,7 +10,7 @@ tags:
   - Shodan
 featured: true
 category: Tutorial
-author: nGbonzini
+author: Nicolas Gula
 type: article
 coverImage:  https://miro.medium.com/v2/resize:fit:640/format:webp/1*ED6ZmPCqS1-UclNjSIYHbg.png
 coverImageAlt: Karma V2
