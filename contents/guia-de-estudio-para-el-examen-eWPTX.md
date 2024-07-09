@@ -11,7 +11,7 @@ tags:
   - Penetration Testing
   - Web Application Security Testing
   - Web Application Vulnerability Assessment
-featured: true
+featured: false
 category: Certification
 author: Nicolas Gula
 type: article
