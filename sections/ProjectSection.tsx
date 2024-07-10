@@ -42,8 +42,7 @@ const ProjectSection: React.FC = () => {
         </RoughNotation>
       </div>
       <span className="project-desc text-center block mb-4" ref={elementRef}>
-      When I finish them, I will put my projects here...<br />
-       <h2 className="section-heading">Comming soon...</h2>
+      What I am doing . . .<br />
       </span>
       <div className="flex flex-wrap">
         {projects.map((project, index) => (
@@ -53,7 +52,7 @@ const ProjectSection: React.FC = () => {
       <div className="others text-center mb-16">
         Other projects can be explored in{" "}
         <a
-          href="https://github.com/"
+          href="https://github.com/p314dO"
           className="font-medium underline link-outline text-marrsgreen dark:text-carrigreen whitespace-nowrap"
         >
           my github profile
